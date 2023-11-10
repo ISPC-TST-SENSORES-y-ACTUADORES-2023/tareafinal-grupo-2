@@ -3,7 +3,6 @@
 
 En este repositorio, encontrarás un documento PDF que contiene el avance del proyecto. El PDF se actualiza a medida que se realizan avances semanales en el proyecto.
 
-### [Documento de Avances](./Avances_Proyecto.pdf)
 
 El documento incluye:
 
