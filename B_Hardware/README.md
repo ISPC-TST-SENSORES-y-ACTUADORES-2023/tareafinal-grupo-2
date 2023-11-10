@@ -6,7 +6,7 @@ En esta carpeta se encuentran los datasheets de los dispositivos y componentes u
 
 La carpeta "B_Hardware" contiene los siguientes elementos:
 
-- **Datasheet_Dispositivo1.pdf**: Aquí se encuentra el datasheet del primer dispositivo utilizado en el proyecto. Este documento proporciona información detallada sobre las características técnicas, pines, protocolos de comunicación y cualquier otro dato relevante del dispositivo.
+- **ESP-WROOM-32.pdf**: Aquí se encuentra el datasheet del ESP32 utilizado en el proyecto. Este documento proporciona información detallada sobre las características técnicas, pines, protocolos de comunicación y cualquier otro dato relevante del dispositivo.
 
 - **Datasheet_Dispositivo2.pdf**: Contiene el datasheet del segundo dispositivo utilizado en el proyecto, con información similar a la mencionada anteriormente.
 
