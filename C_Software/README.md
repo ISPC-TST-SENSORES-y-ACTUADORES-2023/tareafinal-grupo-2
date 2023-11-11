@@ -21,4 +21,5 @@ Para utilizar el software del proyecto, sigue las siguientes instrucciones:
 3. Sigue las instrucciones detalladas en la documentación técnica para configurar y ejecutar el software en tu sistema.
 
 Asegúrate de cumplir con cualquier requisito de instalación de librerías o dependencias mencionado en la documentación técnica.
+.
 
