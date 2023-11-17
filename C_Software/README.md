@@ -1,6 +1,7 @@
 # Software
 
 Esta carpeta contiene el código fuente y los recursos de software utilizados en el proyecto de Sistema IoT de Smart House con ESP32. Aquí se proporciona información relevante sobre la organización y el contenido de esta carpeta.
+El Enlace de acceso a la simulacion en wokwi es https://wokwi.com/projects/380965592514244609
 
 ## Contenido
 
